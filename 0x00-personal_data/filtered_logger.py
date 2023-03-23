@@ -85,3 +85,6 @@ if __name__ == '__main__':
     main()
     # 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
 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
+git clone https://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@github.com/cyrusDev1/alx-system_engineering-devops.git
+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
+https://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github.com/cyrusDev1/alx-backend-javascript.git
